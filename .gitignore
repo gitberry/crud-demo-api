@@ -4,6 +4,7 @@ Web.Debug.config
 Web.Release.config
 Web.NOGIT.connectionStrings.config
 Web.NOGIT.appSettings.config
+App.NOGIT.connectionStrings.config
 DevNotes.txt
 zScrap.txt
 
