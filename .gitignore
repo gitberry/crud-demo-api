@@ -2,8 +2,8 @@
 *.local
 Web.Debug.config
 Web.Release.config
-Web.connectionStrings.NoGit.config
-Web.appSetting.NoGit.config
+Web.NOGIT.connectionStrings.config
+Web.NOGIT.appSettings.config
 DevNotes.txt
 zScrap.txt
 
